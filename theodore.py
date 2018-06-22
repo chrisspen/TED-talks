@@ -182,14 +182,5 @@ def server_error(e):
 # dump_model(clf, count_vect, tfidf_transformer)
 
 
-
-
 if __name__ == "__main__":
     app.run(debug=True)
-
-
-
-
-
-
-
